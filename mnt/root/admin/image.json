@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Docker Image",
+        "uploader": "admin",
+        "name": "linuxserver/webtop",
+        "permission": "public"
+    },
+    {
+        "type": "Docker Image",
+        "uploader": "testcourse6",
+        "name": "testcommit",
+        "permission": "public"
+    },
+    {
+        "type": "VM Template",
+        "uploader": "testvm",
+        "name": "windows",
+        "permission": "public"
+    }
+]

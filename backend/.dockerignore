@@ -1,0 +1,8 @@
+# Never ship the host virtualenvs (they are platform-specific) or caches.
+venv/
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+.DS_Store

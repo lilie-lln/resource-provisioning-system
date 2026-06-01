@@ -1,0 +1,80 @@
+[
+    {
+        "resource": {
+            "className": "test0815",
+            "cpu": 1,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "linuxserver/webtop"
+        },
+        "selectedSlots": [
+            "now"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            30492
+        ]
+    },
+    {
+        "resource": {
+            "className": "test0815",
+            "cpu": 1,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "testcommit"
+        },
+        "selectedSlots": [
+            "now"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            29511
+        ]
+    },
+    {
+        "resource": {
+            "className": "test0815",
+            "cpu": 4,
+            "mem": 4,
+            "gpu": 0,
+            "numberOfDevices": 2,
+            "selectedImage": "windows"
+        },
+        "selectedSlots": [
+            "now"
+        ],
+        "nodeList": [
+            "120.126.17.188",
+            "120.126.17.188"
+        ],
+        "portList": [
+            41416,
+            15642
+        ]
+    },
+    {
+        "resource": {
+            "className": "test0815",
+            "cpu": 1,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "linuxserver/webtop"
+        },
+        "selectedSlots": [
+            "now"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            28105
+        ]
+    }
+]

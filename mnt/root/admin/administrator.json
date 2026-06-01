@@ -1,0 +1,79 @@
+[
+    {
+        "username": "janellehehe",
+        "mail": "janelle@gmail.com",
+        "password": "123456",
+        "date": "2012-06-04T07:25:43.511Z",
+        "permission": 1
+    },
+    {
+        "username": "jolie33",
+        "mail": "jolie@gmail.com",
+        "password": "123456",
+        "date": "2013-12-12T23:25:43.121Z",
+        "permission": 1
+    },
+    {
+        "username": "mike89",
+        "mail": "lms891019@gmail.com",
+        "password": "123456",
+        "date": "2014-10-19T10:25:43.563Z",
+        "permission": 1
+    },
+    {
+        "username": "leeeeeeeeeeo",
+        "mail": "leochen0703@gmail.com",
+        "password": "123456",
+        "date": "2015-04-23T18:25:43.111Z",
+        "permission": 1
+    },
+    {
+        "username": "test",
+        "mail": "cas",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "date": "2024-08-13T06:41:05.176Z",
+        "permission": 1
+    },
+    {
+        "username": "test0813",
+        "mail": "chichinglee@gap.edu.tw",
+        "password": "7f10b284b628586c48078f4ad64eb4a2ec20ba5773aa576e51714df5d673da65",
+        "date": "2024-08-13T06:58:24.224Z",
+        "permission": 1
+    },
+    {
+        "username": "admin",
+        "mail": "admin",
+        "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "date": "2024-08-16T01:49:35.947Z",
+        "permission": 1
+    },
+    {
+        "username": "testAPI",
+        "mail": "testAPI@gmail.com",
+        "password": "f24fe6f3a7001318088cd8233333c807b961efa75b07f2082e3aeb0629c28cad",
+        "date": "2024-08-26T09:24:53.242Z",
+        "permission": 1
+    },
+    {
+        "username": "testReturn",
+        "mail": "testReturn@gmail.com",
+        "password": "8521f54ee4e91a2bea0eb07bd0b95556853cfc663129c10a299b9d54224f50c9",
+        "date": "2024-08-26T09:33:03.321Z",
+        "permission": 1
+    },
+    {
+        "username": "testResponse",
+        "mail": "testResponse@gmail.com",
+        "password": "b7ca17cc286c53afc6c10edf58a9e1d85334a05a1db02c5a9aeaf48c76439210",
+        "date": "2024-08-26T09:33:38.528Z",
+        "permission": 1
+    },
+    {
+        "username": "testDivide",
+        "mail": "testDivide@gmail.com",
+        "password": "cd29e389ac58010c90290081bc815731803b879ea7074c48f2893fa9a67c6493",
+        "date": "2024-08-26T10:02:58.049Z",
+        "permission": 1
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "resource": {
+            "className": "testvm",
+            "cpu": 1,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "windows"
+        },
+        "selectedSlots": [
+            "Friday-noon"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            46483
+        ]
+    },
+    {
+        "resource": {
+            "className": "testvm",
+            "cpu": 3,
+            "mem": 4,
+            "gpu": 0,
+            "numberOfDevices": 3,
+            "selectedImage": "windows"
+        },
+        "selectedSlots": [
+            "Saturday-midnight"
+        ],
+        "nodeList": [
+            "120.126.17.188",
+            "120.126.17.188",
+            "120.126.17.188"
+        ],
+        "portList": [
+            24984,
+            40531,
+            20576
+        ]
+    }
+]

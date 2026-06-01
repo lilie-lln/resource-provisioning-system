@@ -1,0 +1,16 @@
+[
+    {
+        "resource": {
+            "className": "cll5",
+            "cpu": 2,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 6,
+            "selectedImage": "python:3.9"
+        },
+        "selectedSlots": [
+            "Wednesday-noon"
+        ],
+        "portList": []
+    }
+]

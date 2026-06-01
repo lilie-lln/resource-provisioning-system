@@ -1,0 +1,107 @@
+[
+    {
+        "username": "test02",
+        "mail": "test02@local.test",
+        "password": "e1c10806027637577653a25120e4a8437be5207c2e250181823a4fc323eaee39",
+        "date": "2026-05-28T00:00:00.000000",
+        "permission": 2
+    },
+    {
+        "username": "test",
+        "mail": "test@local.test",
+        "password": "d5994920960a82d8fd8c3135d3c46c54852d9ab11c8141e4c3585685b514aa00",
+        "date": "2026-05-28T00:00:00.000000",
+        "permission": 3
+    },
+    {
+        "username": "test0814",
+        "mail": "test0814@gmail.com",
+        "password": "ef36ce5173e7bdf05f93385917022a2d55113a186c23c8eacb8493c1ce73a978",
+        "date": "2012-06-04T07:25:43.511Z",
+        "permission": 2
+    },
+    {
+        "username": "test0815",
+        "mail": "test0815@gmail.com.tw",
+        "password": "92282f883ce2e456182d6ff86855bce3bc29648a9efa1baff31b157dda07b262",
+        "date": "2012-06-04T07:25:43.511Z",
+        "permission": 3
+    },
+    {
+        "username": "test0816",
+        "mail": "cll@edu.tw",
+        "password": "950f567a07d9d150f521315a73c8e7c8d35803d796e827d9c25bc36bbb5cc1bb",
+        "date": "2024-08-27T12:55:13.965066",
+        "permission": 2
+    },
+    {
+        "username": "testcourse1",
+        "mail": "testcourese1@edu.tw",
+        "password": "b276fdd8fa8a5e190996dbdb3af6ef215526d9575b9f6a0eaefec1638c8d09ec",
+        "date": "2024-08-27T13:21:27.060942",
+        "permission": 2
+    },
+    {
+        "username": "testcourse2",
+        "mail": "cll1@edu.tw",
+        "password": "b9cb726110075e94f86baec7f23f73255d339eb6710c1aacb4afa41158785a83",
+        "date": "2024-08-27T12:55:26.561706",
+        "permission": 2
+    },
+    {
+        "username": "testcourese3",
+        "mail": "testcourese3@edu.tw",
+        "password": "5cfb90532dca4ad91093c2f3390297fb78376d87c5fc3d22d455e41ceceb69e8",
+        "date": "2024-08-27T13:30:07.164332",
+        "permission": 2
+    },
+    {
+        "username": "testcourse3",
+        "mail": "testcourse4@x.deut.tw",
+        "password": "86d38b365a5eac83cca620f5fa664070d902ca2aee1f9024bff7c3d9e68750de",
+        "date": "2024-08-27T17:19:46.540934",
+        "permission": 2
+    },
+    {
+        "username": "cll5",
+        "mail": "testcourse5@cug.edu.tw",
+        "password": "9b3221c444e0f4d01aac6efea225ba4e014e6b77a6febf2173f17c65550b9923",
+        "date": "2024-08-28T12:34:10.044923",
+        "permission": 2
+    },
+    {
+        "username": "testcourse6",
+        "mail": "testcourse6@cug.edu.tw",
+        "password": "600c1d872519a31eaeed0901465c7e44d38b5c57f016194858ac6c901aec3e43",
+        "date": "2024-08-28T15:56:06.679565",
+        "permission": 2
+    },
+    {
+        "username": "testcourse8",
+        "mail": "cll@edu.tw",
+        "password": "202bcdf16331c7bee0494eb1bb21b56859cb6d68e3f00b2d980c94b1abfb07cc",
+        "date": "2024-08-28T17:24:37.445651",
+        "permission": 2
+    },
+    {
+        "username": "testvm",
+        "mail": "testvm@edu.tw",
+        "password": "188cc0a7f86837ea21df1ee66b9a871ed0ee5e6e37049f9b5ee30369462ed501",
+        "date": "2024-08-30T19:24:31.972776",
+        "permission": 2
+    },
+    {
+        "username": "testversionv01",
+        "mail": "testversionv01@gmail.com",
+        "password": "0f90689fb15cb76e7331c9fca1e6ad5e3b21da09e3647ef9af16f54da1dd04be",
+        "date": "2024-08-31T16:58:23.208960",
+        "permission": 2
+    },
+    {
+        "username": "testversion10",
+        "mail": "testversion10@gmail.com",
+        "password": "05092bf01107ea8bc709cbff5781d0727b070d11ba47f5a64c01fa30cf75b82b",
+        "date": "2024-09-05T18:49:21.590316",
+        "permission": 2
+    }
+]

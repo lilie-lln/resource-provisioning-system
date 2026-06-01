@@ -1,0 +1,16 @@
+[
+    {
+        "resource": {
+            "className": "init_class",
+            "cpu": 1,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "python:3.8"
+        },
+        "selectedSlots": [
+            "Wednesday-noon"
+        ],
+        "portList": []
+    }
+]

@@ -1,0 +1,41 @@
+# Local-testing deployment for the Cloud Classroom app.
+#
+#   docker compose up -d --build
+#
+# Frontend  -> http://localhost:3000
+# Backend   -> http://localhost:8000   (FastAPI; CORS allows all origins)
+#
+# The backend runs in LOCAL_TEST mode: the scheduler thread is disabled and all
+# SSH/docker calls to real classroom nodes become safe no-ops, so CRUD against
+# the JSON data under ./mnt/root works without any remote hardware.
+
+services:
+  backend:
+    build:
+      context: ./backend
+    image: cloudclassroom-backend
+    container_name: cloudclassroom-backend
+    ports:
+      - "8000:8000"
+    environment:
+      LOCAL_TEST: "1"
+      BASE_DIR: /data/root
+    volumes:
+      # Persist and inspect CRUD changes on the host.
+      - ./mnt/root:/data/root
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        # Override by exporting REACT_APP_BACKEND_HOST or editing the root .env, then rebuild.
+        REACT_APP_BACKEND_HOST: ${REACT_APP_BACKEND_HOST:-http://localhost}
+    image: cloudclassroom-frontend
+    container_name: cloudclassroom-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

@@ -1,0 +1,30 @@
+[
+    {
+        "name":"python_3.8",
+        "type":"Image",
+        "ostype":"ubuntu",
+        "permission":"Private",
+        "uploader":"-IT-2006-1"
+    },   
+    {
+        "name":"mysql:5.7",
+        "type":"Image",
+        "ostype":"ubuntu",
+        "permission":"Public",
+        "uploader":""
+    },
+    {
+        "name":"python_3.9",
+        "type":"Template",
+        "ostype":"Linux",
+        "permission":"Public",
+        "uploader":""
+    },
+    {
+        "name":"ubuntu-20.04-base",
+        "type":"Template",
+        "ostype":"ubuntu",
+        "permission":"Public",
+        "uploader":""
+    }
+]

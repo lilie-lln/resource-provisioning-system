@@ -1,0 +1,10 @@
+[
+    {
+        "gpu":"1", 
+        "cpu":"2", 
+        "mem":"5", 
+        "selectedImage":"python_3.8", 
+        "numberOfDevices":"20"
+    }
+
+]

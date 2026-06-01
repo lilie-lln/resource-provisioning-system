@@ -1,0 +1,22 @@
+[
+    {
+        "resource": {
+            "className": "testcourese3",
+            "cpu": 2,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "mysql:5.7"
+        },
+        "selectedSlots": [
+            "Friday-midnight"
+        ],
+        "type": "container",
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            36333
+        ]
+    }
+]

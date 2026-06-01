@@ -1,0 +1,188 @@
+[
+    {
+      "day": "Monday",
+      "detail": [
+        {
+            "boot":"00:00",
+            "off":"05:59",
+            "slots": "midnight",
+            "availableGpu": 2,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        { 
+          "boot":"06:00",
+          "off":"11:59",
+          "slots": "morning",
+          "availableGpu": 4,
+          "availableCpu": 8,
+          "availableMem": 16
+        },
+        {
+            "boot":"12:00",
+            "off":"17:59",
+            "slots": "noon",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        {
+            "boot":"18:00",
+            "off":"23:59",
+            "slots": "night",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "detail": [
+        {
+            "boot":"00:00",
+            "off":"05:59",
+            "slots": "midnight",
+            "availableGpu": 2,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        { 
+          "boot":"06:00",
+          "off":"11:59",
+          "slots": "morning",
+          "availableGpu": 4,
+          "availableCpu": 8,
+          "availableMem": 16
+        },
+        {
+            "boot":"12:00",
+            "off":"17:59",
+            "slots": "noon",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        {
+            "boot":"18:00",
+            "off":"23:59",
+            "slots": "night",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "detail": [
+        {
+            "boot":"00:00",
+            "off":"05:59",
+            "slots": "midnight",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        { 
+          "boot":"06:00",
+          "off":"11:59",
+          "slots": "morning",
+          "availableGpu": 4,
+          "availableCpu": 8,
+          "availableMem": 16
+        },
+        {
+            "boot":"12:00",
+            "off":"17:59",
+            "slots": "noon",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        {
+            "boot":"18:00",
+            "off":"23:59",
+            "slots": "night",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 1
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "detail": [
+        {
+            "boot":"00:00",
+            "off":"05:59",
+            "slots": "midnight",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        { 
+          "boot":"06:00",
+          "off":"11:59",
+          "slots": "morning",
+          "availableGpu": 4,
+          "availableCpu": 8,
+          "availableMem": 16
+        },
+        {
+            "boot":"12:00",
+            "off":"17:59",
+            "slots": "noon",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        {
+            "boot":"18:00",
+            "off":"23:59",
+            "slots": "night",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "detail": [
+        {
+            "boot":"00:00",
+            "off":"05:59",
+            "slots": "midnight",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 16
+        },
+        { 
+          "boot":"06:00",
+          "off":"11:59",
+          "slots": "morning",
+          "availableGpu": 4,
+          "availableCpu": 8,
+          "availableMem": 16
+        },
+        {
+            "boot":"12:00",
+            "off":"17:59",
+            "slots": "noon",
+            "availableGpu": 4,
+            "availableCpu": 8,
+            "availableMem": 8
+        },
+        {
+            "boot":"18:00",
+            "off":"23:59",
+            "slots": "night",
+            "availableGpu": 2,
+            "availableCpu": 4,
+            "availableMem": 24
+        }
+      ]
+    }
+  ]
+  

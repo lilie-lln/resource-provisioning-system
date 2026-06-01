@@ -1,0 +1,26 @@
+[
+    {
+        "type":"Image",
+        "name":"python_3.8",
+        "permission":"Public",
+        "uploader":"-IT-2006-1"
+    },   
+    {
+        "type":"Image",
+        "name":"mysql:5.7",
+        "permission":"Public",
+        "uploader":""
+    },
+    {
+        "type":"Template",
+        "name":"python_3.9",
+        "permission":"Public",
+        "uploader":""
+    },
+    {
+        "type":"Template",
+        "name":"ubuntu-20.04-base",
+        "permission":"Public",
+        "uploader":""
+    }
+]

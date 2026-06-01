@@ -1,0 +1,40 @@
+[
+    {
+        "resource": {
+            "className": "testversion10",
+            "cpu": 1,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "linuxserver/webtop"
+        },
+        "selectedSlots": [
+            "Thursday-night"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            17453
+        ]
+    },
+    {
+        "resource": {
+            "className": "testversion10",
+            "cpu": 1,
+            "mem": 4,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "windows"
+        },
+        "selectedSlots": [
+            "Thursday-night"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            41326
+        ]
+    }
+]

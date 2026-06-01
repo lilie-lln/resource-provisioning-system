@@ -1,0 +1,16 @@
+[
+    {
+        "hostname": "ccllabcmp1",
+        "ip": "120.126.17.188",
+        "cpu": 48,
+        "mem": 252,
+        "gpu": 8
+    },
+    {
+        "hostname": "ccllab-cmp2",
+        "ip": "120.126.17.190",
+        "cpu": 48,
+        "mem": 252,
+        "gpu": 8
+    }
+]

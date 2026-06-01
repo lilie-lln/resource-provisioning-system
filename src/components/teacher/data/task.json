@@ -1,0 +1,46 @@
+[
+    {   
+        "date":"2024/10/12",
+        "slot":"morning",
+        "node":"1",
+        "port":"31990",
+        "cpu":"3",
+        "mem":"10",
+        "gpu":"1",
+        "state":"up",
+        "file":"python_3.8"
+            
+    },{
+        "date":"2024/10/12",
+        "slot":"morning",
+        "node":"1",
+        "port":"23215",
+        "cpu":"3",
+        "mem":"10",
+        "gpu":"1",
+        "state":"up",
+        "file":"python_3.8"
+    },    
+    {
+        "date":"2024/10/12",
+        "slot":"morning",
+        "node":"1",
+        "port":"51236",
+        "cpu":"3",
+        "mem":"10",
+        "gpu":"1",
+        "state":"up",
+        "file":"python_3.8"
+    },    
+    {
+        "date":"2024/10/12",
+        "slot":"morning",
+        "node":"1",
+        "port":"12475",
+        "cpu":"3",
+        "mem":"10",
+        "gpu":"1",
+        "state":"up",
+        "file":"python_3.8"
+    }
+]

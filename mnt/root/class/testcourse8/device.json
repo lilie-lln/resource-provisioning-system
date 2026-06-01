@@ -1,0 +1,61 @@
+[
+    {
+        "resource": {
+            "className": "testcourse8",
+            "cpu": 10,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "testcommit"
+        },
+        "selectedSlots": [
+            "Friday-midnight"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            27177
+        ]
+    },
+    {
+        "resource": {
+            "className": "testcourse8",
+            "cpu": 10,
+            "mem": 1,
+            "gpu": 0,
+            "numberOfDevices": 1,
+            "selectedImage": "linuxserver/webtop"
+        },
+        "selectedSlots": [
+            "Friday-noon"
+        ],
+        "nodeList": [
+            "120.126.17.188"
+        ],
+        "portList": [
+            31488
+        ]
+    },
+    {
+        "resource": {
+            "className": "testcourse8",
+            "cpu": 2,
+            "mem": 2,
+            "gpu": 0,
+            "numberOfDevices": 2,
+            "selectedImage": "linuxserver/webtop"
+        },
+        "selectedSlots": [
+            "Friday-noon"
+        ],
+        "nodeList": [
+            "120.126.17.188",
+            "120.126.17.188"
+        ],
+        "portList": [
+            18324,
+            27138
+        ]
+    }
+]

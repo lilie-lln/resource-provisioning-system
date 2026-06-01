@@ -1,0 +1,12 @@
+# Frontend build context: install deps fresh and only copy what the build needs.
+node_modules
+build
+backend
+mnt
+.git
+.gitignore
+*.png
+*.tar
+*.md
+npm-debug.log*
+.DS_Store
